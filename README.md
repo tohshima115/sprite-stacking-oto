@@ -44,11 +44,11 @@ npm run dev
 | `npm run carve -- ...` | 四面図 PNG → 水平スライスシート生成 |
 
 ## Cloudflare Workers 静的アセット配信
-`dist/` の純粋静的ビルド成果物を Cloudflare Workers Static Assets で公開配信する構成に対応している（設定：`cloudflare.config.ts`）。
+`dist/` の静的ビルド成果物を Cloudflare Workers Static Assets で公開配信している（設定：`wrangler.jsonc`、公開 URL：https://oto.toyoshima.dev/ ）。
 
 ```powershell
 npm run build
-cf deploy
+npx wrangler deploy
 ```
 
 ## ディレクトリ構成
