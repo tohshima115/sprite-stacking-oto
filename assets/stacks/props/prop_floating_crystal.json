@@ -1,0 +1,23 @@
+{
+  "id": "prop_floating_crystal",
+  "category": "props",
+  "sliceWidth": 25,
+  "sliceHeight": 25,
+  "sliceCount": 44,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    12.5,
+    12.5
+  ],
+  "footprint": [
+    13,
+    13
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "浮遊中継マナ結晶（2x・25x25x44・4f）"
+}

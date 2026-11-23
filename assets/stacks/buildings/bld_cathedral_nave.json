@@ -1,0 +1,23 @@
+{
+  "id": "bld_cathedral_nave",
+  "category": "buildings",
+  "sliceWidth": 62,
+  "sliceHeight": 62,
+  "sliceCount": 116,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    31,
+    31
+  ],
+  "footprint": [
+    31,
+    31
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "大聖堂・身廊（2x・飛び梁控え壁＆バラ窓）"
+}

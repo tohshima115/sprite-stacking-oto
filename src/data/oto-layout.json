@@ -1,0 +1,59 @@
+{
+  "_angles": "sector・radial の角度は +x(東)=0°、+y(南)=90°、-x(西)=180°、-y(北)=270°（画面上で時計回り）",
+  "_comment": "王都の箱庭レイアウト定義：中世ヨーロッパ都市設計・経済地理・建築史住宅26種＋産業魔導建築17種。単位=ワールド px。",
+  "version": 4,
+  "world": { "radius": 1220, "groundTexture": "ground/oto_ground.png", "groundSize": 2560 },
+  "wall": {
+    "shape": "circle",
+    "radius": 820,
+    "thickness": 16,
+    "segmentAsset": "bld_wall_segment_a",
+    "towers": { "asset": "bld_wall_tower_a", "shape": "cylinder", "everyDeg": 15 },
+    "gates": [
+      { "id": "south_gate", "angleDeg": 90, "width": 48 },
+      { "id": "west_gate", "angleDeg": 180, "width": 36 },
+      { "id": "east_gate", "angleDeg": 0, "width": 36 },
+      { "id": "northwest_gate", "angleDeg": 225, "width": 32 }
+    ]
+  },
+  "areas": [
+    { "id": "castle_island", "label": "王城（シタデル丘 +12）", "type": "circle", "center": [0, 0], "radius": 108, "ground": "stone_paved" },
+    { "id": "moat", "label": "円形の水堀", "type": "ring", "center": [0, 0], "rInner": 108, "rOuter": 154, "ground": "water", "blocking": true },
+    { "id": "open_ring", "label": "堀の外周の空地", "type": "ring", "center": [0, 0], "rInner": 154, "rOuter": 192, "ground": "grass_open", "buildings": false },
+    { "id": "castle_bridge", "label": "城の橋 (+8→+12)", "type": "rect", "x": -18, "y": 104, "w": 36, "h": 54, "ground": "wood_bridge" },
+    { "id": "plaza", "label": "城前の大広場", "type": "rect", "x": -88, "y": 186, "w": 176, "h": 116, "ground": "stone_paved" },
+    { "id": "main_street", "label": "メインストリート（南大門〜広場、y=442..482に大石段）", "type": "rect", "x": -26, "y": 302, "w": 52, "h": 510, "ground": "stone_road" },
+    { "id": "back_street", "label": "一本裏の通り", "type": "rect", "x": 108, "y": 302, "w": 24, "h": 242, "ground": "dirt_road" },
+    { "id": "inner_ring", "label": "内環状大通り（旧城壁跡のブールバール）", "type": "ring", "center": [0, 0], "rInner": 448, "rOuter": 476, "ground": "stone_road" },
+    { "id": "noble_arcane", "label": "貴族街・魔導学院区（北西高台 +16・風上）", "type": "ellipse", "center": [-390, -290], "rx": 320, "ry": 255, "ground": "noble_limestone" },
+    { "id": "artisan_canal", "label": "職人運河・工業区（水車・鍛冶・染色・鞣革・魔石精錬）", "type": "sector", "center": [0, 0], "rInner": 225, "rOuter": 790, "fromDeg": 16, "toDeg": 50, "ground": "cobble_industry" },
+    { "id": "slum", "label": "南東下町・貧民街（最下流・最風下）", "type": "sector", "center": [0, 0], "rInner": 470, "rOuter": 790, "fromDeg": 48, "toDeg": 76, "ground": "mud" },
+    { "id": "downtown", "label": "下町商業職人区（レンガ屋根・長屋）", "type": "sector", "center": [0, 0], "rInner": 225, "rOuter": 470, "fromDeg": 48, "toDeg": 80, "ground": "dirt" },
+    { "id": "residential", "label": "中産市民住宅街（段丘・石造＆木骨・階段切妻）", "type": "ring", "center": [0, 0], "rInner": 192, "rOuter": 790, "ground": "grass_town" },
+    { "id": "farmlands", "label": "西部三圃制農地帯（麦畑・ぶどう畑・牧草地・風車）", "type": "sector", "center": [0, 0], "rInner": 850, "rOuter": 1200, "fromDeg": 115, "toDeg": 245, "ground": "farmland" },
+    { "id": "river_port", "label": "大河の川港（埠頭・河川倉庫・荷船）", "type": "rect", "x": 850, "y": -260, "w": 180, "h": 560, "ground": "stone_port" },
+    { "id": "forest", "label": "北・北東の防風林兼薪炭林", "type": "sector", "center": [0, 0], "rInner": 850, "rOuter": 1200, "fromDeg": 245, "toDeg": 345, "ground": "grass_wild" }
+  ],
+  "landmarks": [
+    { "id": "castle", "label": "王城（シタデル丘）", "center": [0, -4], "footprint": [96, 92], "maxSlices": 96 },
+    { "id": "cathedral", "label": "大聖堂", "center": [-114, 172], "footprint": [56, 86], "maxSlices": 92 },
+    { "id": "guild_hq", "label": "王都公認ギルド本部", "center": [-140, 286], "footprint": [84, 64], "maxSlices": 56 },
+    { "id": "market_hall", "label": "中央市場ホール", "center": [-108, 398], "footprint": [66, 98], "maxSlices": 42 },
+    { "id": "shop_corner", "label": "大通りの角店", "center": [46, 336], "footprint": [42, 36], "facing": "west", "maxSlices": 38 },
+    { "id": "guild_branch", "label": "大通りのギルド支部", "center": [45, 384], "footprint": [42, 38], "facing": "west", "maxSlices": 42 },
+    { "id": "guild_small_1", "label": "街のギルド支部", "center": [86, 362], "footprint": [32, 32], "facing": "west" },
+    { "id": "guild_small_2", "label": "街のギルド支部", "center": [44, 496], "footprint": [38, 34], "facing": "west" },
+    { "id": "guild_small_3", "label": "街のギルド支部", "center": [44, 540], "footprint": [38, 34], "facing": "west" },
+    { "id": "arcane_academy", "label": "王立魔導学院", "center": [-320, -240], "footprint": [72, 72], "maxSlices": 60 },
+    { "id": "arcane_siphon", "label": "魔導揚水塔（水道橋起点）", "center": [-495, -455], "footprint": [32, 32], "maxSlices": 56 },
+    { "id": "noble_quarter", "label": "北西の貴族邸宅街", "center": [-430, -320], "footprint": [160, 140] },
+    { "id": "church", "label": "教会", "center": [420, 110], "footprint": [48, 62], "maxSlices": 62 },
+    { "id": "orphanage", "label": "孤児院", "center": [468, 152], "footprint": [40, 40], "maxSlices": 36 },
+    { "id": "industry_district", "label": "職人運河・工業区", "center": [390, 260], "footprint": [150, 120] },
+    { "id": "slum_quarter", "label": "南東の下町・貧民街", "center": [300, 560], "footprint": [140, 140] },
+    { "id": "river_port", "label": "大河の川港", "center": [910, 20], "footprint": [120, 180] },
+    { "id": "western_farms", "label": "西部の風車と麦畑", "center": [-990, 140], "footprint": [160, 160] },
+    { "id": "south_gate", "label": "南の城門（南大門）", "center": [0, 820], "footprint": [82, 42], "maxSlices": 84 }
+  ],
+  "spawn": { "x": 0, "y": 710, "yawDeg": 0, "_note": "南大門の内側・大通り中央（低地0m→大石段で+8m商業段丘へ登る構図）" }
+}

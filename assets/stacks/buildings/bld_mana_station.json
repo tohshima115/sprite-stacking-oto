@@ -1,0 +1,23 @@
+{
+  "id": "bld_mana_station",
+  "category": "buildings",
+  "sliceWidth": 58,
+  "sliceHeight": 38,
+  "sliceCount": 72,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    29,
+    19
+  ],
+  "footprint": [
+    29,
+    19
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "環状マナ軌道トラム駅舎（2x・58x38x72・4f）"
+}

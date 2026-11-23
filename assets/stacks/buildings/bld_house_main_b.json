@@ -1,0 +1,23 @@
+{
+  "id": "bld_house_main_b",
+  "category": "buildings",
+  "sliceWidth": 58,
+  "sliceHeight": 58,
+  "sliceCount": 98,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    29,
+    29
+  ],
+  "footprint": [
+    29,
+    29
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "大通りの商店B（2x・全4面ペディメント窓＆バルコニー）"
+}

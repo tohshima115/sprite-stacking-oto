@@ -1,0 +1,23 @@
+{
+  "id": "prop_fountain_a",
+  "category": "props",
+  "sliceWidth": 62,
+  "sliceHeight": 61,
+  "sliceCount": 56,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    31,
+    30.5
+  ],
+  "footprint": [
+    31,
+    31
+  ],
+  "source": "views-carve",
+  "palette": "oto-64",
+  "notes": "carved from 4 views (round) d=2"
+}

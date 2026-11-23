@@ -1,0 +1,23 @@
+{
+  "id": "prop_mana_well_a",
+  "category": "props",
+  "sliceWidth": 30,
+  "sliceHeight": 30,
+  "sliceCount": 44,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    15,
+    15
+  ],
+  "footprint": [
+    15,
+    15
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "魔導浄水泉（2x・4f）"
+}

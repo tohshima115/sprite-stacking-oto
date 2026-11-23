@@ -1,0 +1,23 @@
+{
+  "id": "bld_noble_villa_a",
+  "category": "buildings",
+  "sliceWidth": 62,
+  "sliceHeight": 58,
+  "sliceCount": 96,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    31,
+    29
+  ],
+  "footprint": [
+    31,
+    29
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "コの字型中庭石造ヴィラ（2x・南北全4面クラシック構成）"
+}

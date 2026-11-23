@@ -1,0 +1,23 @@
+{
+  "id": "prop_barrel_a",
+  "category": "props",
+  "sliceWidth": 14,
+  "sliceHeight": 14,
+  "sliceCount": 18,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    7,
+    7
+  ],
+  "footprint": [
+    7,
+    7
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "木樽（2x）"
+}

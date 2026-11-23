@@ -1,0 +1,23 @@
+{
+  "id": "bld_house_slum_b",
+  "category": "buildings",
+  "sliceWidth": 34,
+  "sliceHeight": 34,
+  "sliceCount": 40,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    17,
+    17
+  ],
+  "footprint": [
+    17,
+    17
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "貧民街の片流れ小屋B（2x・外煙突）"
+}

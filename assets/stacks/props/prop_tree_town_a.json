@@ -1,0 +1,23 @@
+{
+  "id": "prop_tree_town_a",
+  "category": "props",
+  "sliceWidth": 37,
+  "sliceHeight": 37,
+  "sliceCount": 72,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    18.5,
+    18.5
+  ],
+  "footprint": [
+    19,
+    19
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "町の広葉樹（2x・高さ72・不定形樹冠4f）"
+}

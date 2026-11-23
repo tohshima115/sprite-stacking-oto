@@ -1,0 +1,23 @@
+{
+  "id": "bld_castle_wing",
+  "category": "buildings",
+  "sliceWidth": 62,
+  "sliceHeight": 46,
+  "sliceCount": 96,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    31,
+    23
+  ],
+  "footprint": [
+    31,
+    23
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "王城・翼棟（2x・宮殿窓＆シャトードーマー）"
+}

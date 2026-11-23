@@ -1,0 +1,23 @@
+{
+  "id": "bld_house_main_a",
+  "category": "buildings",
+  "sliceWidth": 54,
+  "sliceHeight": 58,
+  "sliceCount": 92,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    27,
+    29
+  ],
+  "footprint": [
+    27,
+    29
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "大通りの商店A（2x・歩廊アーケード＆出窓）"
+}

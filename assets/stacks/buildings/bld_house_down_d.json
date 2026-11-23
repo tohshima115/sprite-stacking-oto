@@ -1,0 +1,23 @@
+{
+  "id": "bld_house_down_d",
+  "category": "buildings",
+  "sliceWidth": 38,
+  "sliceHeight": 46,
+  "sliceCount": 62,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    19,
+    23
+  ],
+  "footprint": [
+    19,
+    23
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "下町の家D（2x・マンサード＆ドーマー）"
+}

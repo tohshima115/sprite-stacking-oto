@@ -1,0 +1,23 @@
+{
+  "id": "prop_cart_a",
+  "category": "props",
+  "sliceWidth": 34,
+  "sliceHeight": 26,
+  "sliceCount": 26,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    17,
+    13
+  ],
+  "footprint": [
+    17,
+    13
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "荷積みの荷車（2x）"
+}

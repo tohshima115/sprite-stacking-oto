@@ -1,0 +1,23 @@
+{
+  "id": "bld_house_slum_e",
+  "category": "buildings",
+  "sliceWidth": 38,
+  "sliceHeight": 42,
+  "sliceCount": 48,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    19,
+    21
+  ],
+  "footprint": [
+    19,
+    21
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "貧民街の増築小屋E（2x・増築差しかけ）"
+}

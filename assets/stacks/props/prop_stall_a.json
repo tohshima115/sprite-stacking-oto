@@ -1,0 +1,23 @@
+{
+  "id": "prop_stall_a",
+  "category": "props",
+  "sliceWidth": 38,
+  "sliceHeight": 30,
+  "sliceCount": 40,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    19,
+    15
+  ],
+  "footprint": [
+    19,
+    15
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "市場の露店（2x）"
+}

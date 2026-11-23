@@ -1,0 +1,23 @@
+{
+  "id": "prop_flowerbed_a",
+  "category": "props",
+  "sliceWidth": 26,
+  "sliceHeight": 14,
+  "sliceCount": 12,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    13,
+    7
+  ],
+  "footprint": [
+    13,
+    7
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "石枠の花壇（2x）"
+}

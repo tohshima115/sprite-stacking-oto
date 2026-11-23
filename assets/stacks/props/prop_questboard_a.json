@@ -1,0 +1,23 @@
+{
+  "id": "prop_questboard_a",
+  "category": "props",
+  "sliceWidth": 26,
+  "sliceHeight": 10,
+  "sliceCount": 36,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    13,
+    5
+  ],
+  "footprint": [
+    13,
+    5
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "街角のクエスト掲示板（2x）"
+}

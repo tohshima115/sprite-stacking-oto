@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.cloudflare/
+logs/
+*.log
+.DS_Store
+docs/
+scripts/serve-preview.mjs
+scripts/start-tunnel.ps1
+scripts/stop-tunnel.ps1

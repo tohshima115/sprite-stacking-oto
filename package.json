@@ -1,0 +1,23 @@
+{
+  "name": "sprite-stacking-oto",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "王都の箱庭を Sprite Stacking で探索するプロトタイプのテスト環境",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "gen:dummy": "node scripts/gen-dummy-assets.mjs && node scripts/selftest-carve.mjs",
+    "gen:assets": "node scripts/gen-houses.mjs && node scripts/gen-landmarks.mjs && node scripts/gen-props.mjs && node scripts/gen-industry-magic.mjs && node scripts/gen-ground.mjs",
+    "carve": "node scripts/carve-views.mjs",
+    "check:assets": "node scripts/check-assets.mjs"
+  },
+  "devDependencies": {
+    "pngjs": "^7.0.0",
+    "typescript": "^5.6.3",
+    "vite": "^6.0.0",
+    "vitest": "^2.1.8"
+  }
+}

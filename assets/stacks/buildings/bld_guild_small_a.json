@@ -1,0 +1,23 @@
+{
+  "id": "bld_guild_small_a",
+  "category": "buildings",
+  "sliceWidth": 50,
+  "sliceHeight": 54,
+  "sliceCount": 76,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    25,
+    27
+  ],
+  "footprint": [
+    25,
+    27
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "街のギルド支部A（2x・全4面組窓＆ドーマー）"
+}

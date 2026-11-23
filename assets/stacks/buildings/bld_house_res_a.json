@@ -1,0 +1,23 @@
+{
+  "id": "bld_house_res_a",
+  "category": "buildings",
+  "sliceWidth": 46,
+  "sliceHeight": 50,
+  "sliceCount": 72,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    23,
+    25
+  ],
+  "footprint": [
+    23,
+    25
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "住宅街の家A（2x・切妻ポーチ＆両面ドーマー）"
+}

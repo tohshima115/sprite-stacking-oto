@@ -1,0 +1,23 @@
+{
+  "id": "prop_vineyard_row",
+  "category": "props",
+  "sliceWidth": 42,
+  "sliceHeight": 14,
+  "sliceCount": 20,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    21,
+    7
+  ],
+  "footprint": [
+    21,
+    7
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "ぶどう棚（2x）"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bld_wall_segment_a",
+  "category": "buildings",
+  "sliceWidth": 50,
+  "sliceHeight": 26,
+  "sliceCount": 60,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    25,
+    13
+  ],
+  "footprint": [
+    25,
+    13
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "城壁モジュール（2x・控え壁＆持ち送り胸壁）"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chr_golem_a",
+  "category": "characters",
+  "sliceWidth": 21,
+  "sliceHeight": 21,
+  "sliceCount": 32,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    10.5,
+    10.5
+  ],
+  "footprint": [
+    11,
+    11
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "マナ荷役ゴーレム（2x・21x21x32・4f）"
+}

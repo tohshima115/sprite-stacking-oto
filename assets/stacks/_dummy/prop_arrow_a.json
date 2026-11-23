@@ -1,0 +1,23 @@
+{
+  "id": "prop_arrow_a",
+  "category": "props",
+  "sliceWidth": 9,
+  "sliceHeight": 15,
+  "sliceCount": 3,
+  "density": 1,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    4.5,
+    7.5
+  ],
+  "footprint": [
+    9,
+    15
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "+y を指す矢印（回転方向の確認用）"
+}

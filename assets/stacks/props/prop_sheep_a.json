@@ -1,0 +1,23 @@
+{
+  "id": "prop_sheep_a",
+  "category": "props",
+  "sliceWidth": 18,
+  "sliceHeight": 14,
+  "sliceCount": 14,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    9,
+    7
+  ],
+  "footprint": [
+    9,
+    7
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "牧場の羊（2x）"
+}

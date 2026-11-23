@@ -1,0 +1,23 @@
+{
+  "id": "bld_tower_round_a",
+  "category": "buildings",
+  "sliceWidth": 21,
+  "sliceHeight": 21,
+  "sliceCount": 40,
+  "density": 1,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    10.5,
+    10.5
+  ],
+  "footprint": [
+    21,
+    21
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "円柱の塔。正面(+y)に扉"
+}

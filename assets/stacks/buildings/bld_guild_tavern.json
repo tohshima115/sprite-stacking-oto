@@ -1,0 +1,23 @@
+{
+  "id": "bld_guild_tavern",
+  "category": "buildings",
+  "sliceWidth": 58,
+  "sliceHeight": 58,
+  "sliceCount": 92,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    29,
+    29
+  ],
+  "footprint": [
+    29,
+    29
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "冒険者酒場（2x・全4面灯り窓＆側面出窓＆大煙突）"
+}

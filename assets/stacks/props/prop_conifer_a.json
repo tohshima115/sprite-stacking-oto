@@ -1,0 +1,23 @@
+{
+  "id": "prop_conifer_a",
+  "category": "props",
+  "sliceWidth": 37,
+  "sliceHeight": 37,
+  "sliceCount": 80,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    18.5,
+    18.5
+  ],
+  "footprint": [
+    19,
+    19
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "針葉樹A（2x・高さ80・風揺らぎ4f）"
+}

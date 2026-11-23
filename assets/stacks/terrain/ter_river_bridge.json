@@ -1,0 +1,23 @@
+{
+  "id": "ter_river_bridge",
+  "category": "terrain",
+  "sliceWidth": 62,
+  "sliceHeight": 14,
+  "sliceCount": 28,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    31,
+    7
+  ],
+  "footprint": [
+    31,
+    7
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "河川・運河橋石欄干（2x・62x14x28）"
+}

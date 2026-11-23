@@ -1,0 +1,23 @@
+{
+  "id": "prop_cafe_table_a",
+  "category": "props",
+  "sliceWidth": 30,
+  "sliceHeight": 30,
+  "sliceCount": 34,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    15,
+    15
+  ],
+  "footprint": [
+    15,
+    15
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "オープンカフェのテラス席（2x）"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bld_castle_keep",
+  "category": "buildings",
+  "sliceWidth": 62,
+  "sliceHeight": 62,
+  "sliceCount": 108,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    31,
+    31
+  ],
+  "footprint": [
+    31,
+    31
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "王城・中央天守（2x・段付き控え壁＆ランセット窓）"
+}

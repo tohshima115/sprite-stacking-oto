@@ -1,0 +1,23 @@
+{
+  "id": "chr_townsfolk_a",
+  "category": "characters",
+  "sliceWidth": 17,
+  "sliceHeight": 17,
+  "sliceCount": 28,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    8.5,
+    8.5
+  ],
+  "footprint": [
+    9,
+    9
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "町の住人（男性・オリーブチュニック）"
+}

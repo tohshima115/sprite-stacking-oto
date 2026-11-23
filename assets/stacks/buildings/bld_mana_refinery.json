@@ -1,0 +1,23 @@
+{
+  "id": "bld_mana_refinery",
+  "category": "buildings",
+  "sliceWidth": 54,
+  "sliceHeight": 54,
+  "sliceCount": 96,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    27,
+    27
+  ],
+  "footprint": [
+    27,
+    27
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "魔石精錬工房（2x・銅導管＆控え壁＆4f凝縮塔）"
+}

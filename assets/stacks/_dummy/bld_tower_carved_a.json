@@ -1,0 +1,23 @@
+{
+  "id": "bld_tower_carved_a",
+  "category": "_dummy",
+  "sliceWidth": 19,
+  "sliceHeight": 19,
+  "sliceCount": 40,
+  "density": 1,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    9.5,
+    9.5
+  ],
+  "footprint": [
+    19,
+    19
+  ],
+  "source": "views-carve",
+  "palette": "oto-32",
+  "notes": "carved from 4 views (round) d=1"
+}

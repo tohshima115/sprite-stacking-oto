@@ -1,0 +1,23 @@
+{
+  "id": "bld_noble_gatehouse",
+  "category": "buildings",
+  "sliceWidth": 58,
+  "sliceHeight": 26,
+  "sliceCount": 56,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    29,
+    13
+  ],
+  "footprint": [
+    29,
+    13
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "貴族庭園石門＆鍛鉄柵（2x・58x26x56）"
+}

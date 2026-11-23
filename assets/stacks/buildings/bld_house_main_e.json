@@ -1,0 +1,23 @@
+{
+  "id": "bld_house_main_e",
+  "category": "buildings",
+  "sliceWidth": 58,
+  "sliceHeight": 58,
+  "sliceCount": 112,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    29,
+    29
+  ],
+  "footprint": [
+    29,
+    29
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "角地タレット付き大商館E（2x・1F歩廊＆全4面ペディメント窓）"
+}

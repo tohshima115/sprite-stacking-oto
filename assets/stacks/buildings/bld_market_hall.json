@@ -1,0 +1,23 @@
+{
+  "id": "bld_market_hall",
+  "category": "buildings",
+  "sliceWidth": 58,
+  "sliceHeight": 62,
+  "sliceCount": 84,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    29,
+    31
+  ],
+  "footprint": [
+    29,
+    31
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "中央市場ホール（2x・1F全4面吹き抜け石柱アーケード＆木骨2F）"
+}

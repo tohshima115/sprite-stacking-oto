@@ -1,0 +1,23 @@
+{
+  "id": "bld_noble_manor_b",
+  "category": "buildings",
+  "sliceWidth": 58,
+  "sliceHeight": 58,
+  "sliceCount": 120,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    29,
+    29
+  ],
+  "footprint": [
+    29,
+    29
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "石造小塔付き伯爵邸B（2x・全4面ペディメント窓＆階段塔）"
+}

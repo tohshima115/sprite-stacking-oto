@@ -1,0 +1,23 @@
+{
+  "id": "bld_house_main_c",
+  "category": "buildings",
+  "sliceWidth": 58,
+  "sliceHeight": 62,
+  "sliceCount": 108,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    29,
+    31
+  ],
+  "footprint": [
+    29,
+    31
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "大通りの商館C（2x・3Fバルコニー＆出窓）"
+}

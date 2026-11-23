@@ -1,0 +1,23 @@
+{
+  "id": "bld_magic_forge",
+  "category": "buildings",
+  "sliceWidth": 54,
+  "sliceHeight": 50,
+  "sliceCount": 80,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    27,
+    25
+  ],
+  "footprint": [
+    27,
+    25
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "魔導鍛冶場（2x・張出し炉庇＆外大煙突・4f）"
+}

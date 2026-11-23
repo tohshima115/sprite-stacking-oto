@@ -1,0 +1,23 @@
+{
+  "id": "bld_noble_manor_a",
+  "category": "buildings",
+  "sliceWidth": 62,
+  "sliceHeight": 58,
+  "sliceCount": 108,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    31,
+    29
+  ],
+  "footprint": [
+    31,
+    29
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "大理石ピアノ・ノービレ貴族邸A（2x・全4面ペディメント窓＆ポルチコ）"
+}

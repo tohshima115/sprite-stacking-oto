@@ -1,0 +1,23 @@
+{
+  "id": "bld_house_down_a",
+  "category": "buildings",
+  "sliceWidth": 38,
+  "sliceHeight": 42,
+  "sliceCount": 58,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    19,
+    21
+  ],
+  "footprint": [
+    19,
+    21
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "下町の家A（2x・切妻ポーチ＆煙突胸壁）"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "prop_teleport_pad",
+  "category": "props",
+  "sliceWidth": 53,
+  "sliceHeight": 53,
+  "sliceCount": 36,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    26.5,
+    26.5
+  ],
+  "footprint": [
+    27,
+    27
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "公衆魔導転移陣（2x・53x53x36・4f）"
+}

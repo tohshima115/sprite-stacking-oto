@@ -1,0 +1,23 @@
+{
+  "id": "bld_barn_a",
+  "category": "buildings",
+  "sliceWidth": 58,
+  "sliceHeight": 46,
+  "sliceCount": 68,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    29,
+    23
+  ],
+  "footprint": [
+    29,
+    23
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "ギャンブレル屋根の大納屋（2x・干し草荷揚げ庇＆全4面木枠）"
+}

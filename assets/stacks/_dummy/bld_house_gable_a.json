@@ -1,0 +1,23 @@
+{
+  "id": "bld_house_gable_a",
+  "category": "buildings",
+  "sliceWidth": 16,
+  "sliceHeight": 24,
+  "sliceCount": 22,
+  "density": 1,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    8,
+    12
+  ],
+  "footprint": [
+    16,
+    24
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "切妻の家。正面(+y)の妻面に扉"
+}

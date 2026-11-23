@@ -1,0 +1,23 @@
+{
+  "id": "bld_cathedral_spire_top",
+  "category": "buildings",
+  "sliceWidth": 38,
+  "sliceHeight": 38,
+  "sliceCount": 84,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    19,
+    19
+  ],
+  "footprint": [
+    19,
+    19
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "大聖堂・鐘楼上段尖塔（2x・小尖塔＆鐘楼）"
+}

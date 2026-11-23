@@ -1,0 +1,23 @@
+{
+  "id": "prop_barrier_pylon",
+  "category": "props",
+  "sliceWidth": 29,
+  "sliceHeight": 29,
+  "sliceCount": 84,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    14.5,
+    14.5
+  ],
+  "footprint": [
+    15,
+    15
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "対魔獣結界発生パイロン（2x・29x29x84・4f）"
+}

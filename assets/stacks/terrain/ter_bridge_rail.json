@@ -1,0 +1,23 @@
+{
+  "id": "ter_bridge_rail",
+  "category": "terrain",
+  "sliceWidth": 14,
+  "sliceHeight": 62,
+  "sliceCount": 30,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    7,
+    31
+  ],
+  "footprint": [
+    7,
+    31
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "城の橋・石欄干（2x・14x62x30）"
+}

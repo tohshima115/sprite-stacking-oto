@@ -1,0 +1,23 @@
+{
+  "id": "bld_windmill",
+  "category": "buildings",
+  "sliceWidth": 50,
+  "sliceHeight": 50,
+  "sliceCount": 112,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    25,
+    25
+  ],
+  "footprint": [
+    25,
+    25
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "石造風車（2x・切妻ポーチ＆螺旋窓・4f）"
+}

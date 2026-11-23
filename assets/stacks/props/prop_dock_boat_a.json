@@ -1,0 +1,23 @@
+{
+  "id": "prop_dock_boat_a",
+  "category": "props",
+  "sliceWidth": 54,
+  "sliceHeight": 26,
+  "sliceCount": 20,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    27,
+    13
+  ],
+  "footprint": [
+    27,
+    13
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "川港の木造荷船（2x・4f）"
+}

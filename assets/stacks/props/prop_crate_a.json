@@ -1,0 +1,23 @@
+{
+  "id": "prop_crate_a",
+  "category": "props",
+  "sliceWidth": 18,
+  "sliceHeight": 18,
+  "sliceCount": 18,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    9,
+    9
+  ],
+  "footprint": [
+    9,
+    9
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "木箱（2x）"
+}

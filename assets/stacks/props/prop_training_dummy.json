@@ -1,0 +1,23 @@
+{
+  "id": "prop_training_dummy",
+  "category": "props",
+  "sliceWidth": 22,
+  "sliceHeight": 22,
+  "sliceCount": 36,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    11,
+    11
+  ],
+  "footprint": [
+    11,
+    11
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "冒険者訓練人形（2x）"
+}

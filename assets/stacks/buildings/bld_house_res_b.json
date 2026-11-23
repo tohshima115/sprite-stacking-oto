@@ -1,0 +1,23 @@
+{
+  "id": "bld_house_res_b",
+  "category": "buildings",
+  "sliceWidth": 50,
+  "sliceHeight": 50,
+  "sliceCount": 78,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    25,
+    25
+  ],
+  "footprint": [
+    25,
+    25
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "住宅街の家B（2x・2F張り出し＆出窓）"
+}

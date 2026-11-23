@@ -1,0 +1,23 @@
+{
+  "id": "bld_warehouse_dock",
+  "category": "buildings",
+  "sliceWidth": 62,
+  "sliceHeight": 50,
+  "sliceCount": 80,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    31,
+    25
+  ],
+  "footprint": [
+    31,
+    25
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "河港大型倉庫（2x・張出しクレーン庇＆吊り荷箱＆控え壁）"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bld_smithy",
+  "category": "buildings",
+  "sliceWidth": 50,
+  "sliceHeight": 46,
+  "sliceCount": 72,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    25,
+    23
+  ],
+  "footprint": [
+    25,
+    23
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "石造鍛冶場（2x・開放炉庇＆外大煙突・4f）"
+}

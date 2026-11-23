@@ -1,0 +1,23 @@
+{
+  "id": "bld_side_gate_e",
+  "category": "buildings",
+  "sliceWidth": 46,
+  "sliceHeight": 34,
+  "sliceCount": 88,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    23,
+    17
+  ],
+  "footprint": [
+    23,
+    17
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "副城門・東アーチ（2x・46x34x88）"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bld_guild_branch",
+  "category": "buildings",
+  "sliceWidth": 54,
+  "sliceHeight": 58,
+  "sliceCount": 84,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    27,
+    29
+  ],
+  "footprint": [
+    27,
+    29
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "大通りのギルド支部（2x・バルコニー＆側面出窓）"
+}

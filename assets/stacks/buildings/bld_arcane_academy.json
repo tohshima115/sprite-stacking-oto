@@ -1,0 +1,23 @@
+{
+  "id": "bld_arcane_academy",
+  "category": "buildings",
+  "sliceWidth": 62,
+  "sliceHeight": 62,
+  "sliceCount": 120,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    31,
+    31
+  ],
+  "footprint": [
+    31,
+    31
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "王立魔導学院本館（2x・全4面魔導アーチ窓＆天文ドーム）"
+}

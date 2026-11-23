@@ -1,0 +1,23 @@
+{
+  "id": "bld_dyeworks",
+  "category": "buildings",
+  "sliceWidth": 50,
+  "sliceHeight": 46,
+  "sliceCount": 64,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    25,
+    23
+  ],
+  "footprint": [
+    25,
+    23
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "染色工房（2x・半木骨母屋＆反物物干し枠）"
+}

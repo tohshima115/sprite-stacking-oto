@@ -1,0 +1,23 @@
+{
+  "id": "bld_cathedral_apse",
+  "category": "buildings",
+  "sliceWidth": 58,
+  "sliceHeight": 50,
+  "sliceCount": 96,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    29,
+    25
+  ],
+  "footprint": [
+    29,
+    25
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "大聖堂・多角形後陣チェベット（2x・58x50x96）"
+}

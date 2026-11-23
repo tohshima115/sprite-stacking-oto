@@ -1,0 +1,23 @@
+{
+  "id": "prop_sky_skiff",
+  "category": "props",
+  "sliceWidth": 33,
+  "sliceHeight": 57,
+  "sliceCount": 36,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    16.5,
+    28.5
+  ],
+  "footprint": [
+    17,
+    29
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "浮遊魔導飛空艇スカイスキフ（2x・33x57x36・4f）"
+}

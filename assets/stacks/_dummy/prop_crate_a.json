@@ -1,0 +1,23 @@
+{
+  "id": "prop_crate_a",
+  "category": "props",
+  "sliceWidth": 12,
+  "sliceHeight": 12,
+  "sliceCount": 12,
+  "density": 1,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    6,
+    6
+  ],
+  "footprint": [
+    12,
+    12
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "正面(+y)に金色マーカー"
+}

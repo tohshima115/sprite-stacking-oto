@@ -1,0 +1,23 @@
+{
+  "id": "chr_hero_walk",
+  "category": "characters",
+  "sliceWidth": 17,
+  "sliceHeight": 17,
+  "sliceCount": 28,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    8.5,
+    8.5
+  ],
+  "footprint": [
+    9,
+    9
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "主人公（2x・3頭身17x17x28・青チュニック＋短マント・4f）"
+}

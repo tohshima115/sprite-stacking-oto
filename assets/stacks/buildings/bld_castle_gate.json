@@ -1,0 +1,23 @@
+{
+  "id": "bld_castle_gate",
+  "category": "buildings",
+  "sliceWidth": 62,
+  "sliceHeight": 46,
+  "sliceCount": 116,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    31,
+    23
+  ],
+  "footprint": [
+    31,
+    23
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "王城・南正門（2x・張出し石落とし＆ゴシック大門）"
+}

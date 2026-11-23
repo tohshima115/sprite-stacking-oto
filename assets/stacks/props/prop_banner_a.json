@@ -1,0 +1,23 @@
+{
+  "id": "prop_banner_a",
+  "category": "props",
+  "sliceWidth": 14,
+  "sliceHeight": 14,
+  "sliceCount": 60,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    7,
+    7
+  ],
+  "footprint": [
+    7,
+    7
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "王都の青×金垂れ幕ポール（2x・4f）"
+}

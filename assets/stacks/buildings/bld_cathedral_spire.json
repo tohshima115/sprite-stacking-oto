@@ -1,0 +1,23 @@
+{
+  "id": "bld_cathedral_spire",
+  "category": "buildings",
+  "sliceWidth": 50,
+  "sliceHeight": 50,
+  "sliceCount": 104,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    25,
+    25
+  ],
+  "footprint": [
+    25,
+    25
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "大聖堂・鐘楼尖塔下段（2x・控え壁＆3連ランセット）"
+}

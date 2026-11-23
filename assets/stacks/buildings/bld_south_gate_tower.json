@@ -1,0 +1,23 @@
+{
+  "id": "bld_south_gate_tower",
+  "category": "buildings",
+  "sliceWidth": 50,
+  "sliceHeight": 50,
+  "sliceCount": 108,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    25,
+    25
+  ],
+  "footprint": [
+    25,
+    25
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "南の城門・門楼の塔（2x・下段108）"
+}

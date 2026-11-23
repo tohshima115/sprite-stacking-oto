@@ -1,0 +1,23 @@
+{
+  "id": "bld_house_slum_c",
+  "category": "buildings",
+  "sliceWidth": 34,
+  "sliceHeight": 38,
+  "sliceCount": 44,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    17,
+    19
+  ],
+  "footprint": [
+    17,
+    19
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "貧民街のボロ長屋C（2x・苔屋根）"
+}

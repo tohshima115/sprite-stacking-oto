@@ -1,0 +1,23 @@
+{
+  "id": "bld_house_res_e",
+  "category": "buildings",
+  "sliceWidth": 42,
+  "sliceHeight": 54,
+  "sliceCount": 96,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    21,
+    27
+  ],
+  "footprint": [
+    21,
+    27
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "市民街の高層タウンハウスE（2x・階段切妻＆滑車）"
+}

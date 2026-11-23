@@ -1,0 +1,23 @@
+{
+  "id": "bld_house_slum_d",
+  "category": "buildings",
+  "sliceWidth": 38,
+  "sliceHeight": 38,
+  "sliceCount": 40,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    19,
+    19
+  ],
+  "footprint": [
+    19,
+    19
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "貧民街の平屋D（2x・粗煙突＆鎧戸）"
+}

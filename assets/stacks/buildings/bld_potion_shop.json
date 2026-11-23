@@ -1,0 +1,23 @@
+{
+  "id": "bld_potion_shop",
+  "category": "buildings",
+  "sliceWidth": 54,
+  "sliceHeight": 54,
+  "sliceCount": 88,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    27,
+    27
+  ],
+  "footprint": [
+    27,
+    27
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "錬金・ポーション工房（2x・側面出窓＆フラスコ・4f）"
+}

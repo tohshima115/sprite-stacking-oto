@@ -1,0 +1,23 @@
+{
+  "id": "bld_watermill",
+  "category": "buildings",
+  "sliceWidth": 54,
+  "sliceHeight": 50,
+  "sliceCount": 76,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    27,
+    25
+  ],
+  "footprint": [
+    27,
+    25
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "水車製粉所（2x・2F木骨＆ネイティブ2×回転水車4f）"
+}

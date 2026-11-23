@@ -1,0 +1,23 @@
+{
+  "id": "bld_south_gate_arch_w",
+  "category": "buildings",
+  "sliceWidth": 58,
+  "sliceHeight": 42,
+  "sliceCount": 120,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    29,
+    21
+  ],
+  "footprint": [
+    29,
+    21
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "南の城門・西アーチ（2x・58x42x120）"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bld_wall_segment_a",
+  "category": "buildings",
+  "sliceWidth": 16,
+  "sliceHeight": 8,
+  "sliceCount": 18,
+  "density": 1,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    8,
+    4
+  ],
+  "footprint": [
+    16,
+    8
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "城壁モジュール。リング状に並べる。長辺=x"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "prop_lamp_a",
+  "category": "props",
+  "sliceWidth": 13,
+  "sliceHeight": 13,
+  "sliceCount": 52,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    6.5,
+    6.5
+  ],
+  "footprint": [
+    7,
+    7
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "王都の鍛鉄ランタン街灯（2x・高さ52）"
+}

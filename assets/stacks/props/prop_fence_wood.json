@@ -1,0 +1,23 @@
+{
+  "id": "prop_fence_wood",
+  "category": "props",
+  "sliceWidth": 34,
+  "sliceHeight": 10,
+  "sliceCount": 14,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    17,
+    5
+  ],
+  "footprint": [
+    17,
+    5
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "牧草地の木柵（2x）"
+}

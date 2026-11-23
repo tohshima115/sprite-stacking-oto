@@ -1,0 +1,23 @@
+{
+  "id": "prop_tree_round_a",
+  "category": "props",
+  "sliceWidth": 13,
+  "sliceHeight": 13,
+  "sliceCount": 22,
+  "density": 1,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    6.5,
+    6.5
+  ],
+  "footprint": [
+    13,
+    13
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": ""
+}

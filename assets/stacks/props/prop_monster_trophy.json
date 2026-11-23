@@ -1,0 +1,23 @@
+{
+  "id": "prop_monster_trophy",
+  "category": "props",
+  "sliceWidth": 45,
+  "sliceHeight": 41,
+  "sliceCount": 60,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    22.5,
+    20.5
+  ],
+  "footprint": [
+    23,
+    21
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "ワイバーン討伐記念トロフィー（2x・45x41x60）"
+}

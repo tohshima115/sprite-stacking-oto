@@ -1,0 +1,23 @@
+{
+  "id": "bld_orphanage",
+  "category": "buildings",
+  "sliceWidth": 58,
+  "sliceHeight": 58,
+  "sliceCount": 72,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    29,
+    29
+  ],
+  "footprint": [
+    29,
+    29
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "孤児院（2x・木骨張り出し＆全4面花壇窓）"
+}

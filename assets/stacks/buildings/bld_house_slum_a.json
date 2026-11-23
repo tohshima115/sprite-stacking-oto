@@ -1,0 +1,23 @@
+{
+  "id": "bld_house_slum_a",
+  "category": "buildings",
+  "sliceWidth": 30,
+  "sliceHeight": 34,
+  "sliceCount": 38,
+  "density": 2,
+  "frames": 1,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    15,
+    17
+  ],
+  "footprint": [
+    15,
+    17
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "貧民街の小屋A（2x・藁葺き＆差しかけ）"
+}

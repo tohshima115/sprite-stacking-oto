@@ -1,0 +1,23 @@
+{
+  "id": "bld_arcane_siphon",
+  "category": "buildings",
+  "sliceWidth": 46,
+  "sliceHeight": 46,
+  "sliceCount": 112,
+  "density": 2,
+  "frames": 4,
+  "layout": "horizontal",
+  "order": "bottom-first",
+  "front": "+y",
+  "pivot": [
+    23,
+    23
+  ],
+  "footprint": [
+    23,
+    23
+  ],
+  "source": "procedural",
+  "palette": "oto-64",
+  "notes": "魔導揚水塔（2x・控え壁＆ギャラリー＆4f）"
+}

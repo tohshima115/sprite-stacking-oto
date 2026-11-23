@@ -1,0 +1,89 @@
+{
+  "worldRadius": 1220,
+  "groundSize": 2560,
+  "wallRadius": 820,
+  "wallThickness": 16,
+  "moatInnerR": 108,
+  "moatOuterR": 154,
+  "innerRingR": 462,
+  "gates": [
+    { "id": "south", "angleDeg": 90, "width": 48 },
+    { "id": "west", "angleDeg": 180, "width": 36 },
+    { "id": "east", "angleDeg": 0, "width": 36 },
+    { "id": "northwest", "angleDeg": 225, "width": 32 }
+  ],
+  "mainRiver": {
+    "halfW": 38,
+    "bankW": 12,
+    "points": [
+      [-1280, -620],
+      [-940, -520],
+      [-620, -740],
+      [180, -980],
+      [720, -840],
+      [980, -320],
+      [960, 260],
+      [840, 760],
+      [620, 1280]
+    ]
+  },
+  "intakeCanal": {
+    "halfW": 6,
+    "points": [
+      [-860, -560],
+      [-690, -495],
+      [-520, -460]
+    ]
+  },
+  "artisanCanal": {
+    "halfW": 9,
+    "bankW": 5,
+    "points": [
+      [150, 15],
+      [250, 120],
+      [380, 260],
+      [620, 420],
+      [895, 530]
+    ]
+  },
+  "castleIsland": { "cx": 0, "cy": 0, "r": 108, "z": 0 },
+  "tier1": {
+    "z": 0,
+    "mainEllipse": {
+      "cx": -20,
+      "cy": 20,
+      "rx": 435,
+      "ry": 448,
+      "clipYMax": 454,
+      "minR": 154,
+      "maxR": 790,
+      "excludeSector": { "fromDeg": 22, "toDeg": 68, "rMin": 225 }
+    },
+    "eastChurchEllipse": {
+      "cx": 430,
+      "cy": 110,
+      "rx": 145,
+      "ry": 120
+    }
+  },
+  "tier2": {
+    "z": 0,
+    "nobleEllipse": {
+      "cx": -390,
+      "cy": -290,
+      "rx": 320,
+      "ry": 255,
+      "minR": 184,
+      "maxR": 785,
+      "clipXMax": -95,
+      "clipYMax": -20
+    }
+  },
+  "ramps": [],
+  "bridges": [
+    { "id": "bridge_east_port", "x0": 912, "y0": -22, "x1": 1032, "y1": 22 },
+    { "id": "bridge_nw_gate", "x0": -835, "y0": -675, "x1": -730, "y1": -575 },
+    { "id": "bridge_canal_1", "x0": 350, "y0": 215, "x1": 438, "y1": 295 },
+    { "id": "bridge_canal_2", "x0": 615, "y0": 375, "x1": 675, "y1": 465 }
+  ]
+}
